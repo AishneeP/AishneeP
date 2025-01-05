@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aishnee Porwal</h1>
-<h3 align="center">A Django developer, python enthusiast and a sporadic scribbler, currently pursuing Bachelors in Computer Science Engineering.</h3>
+<h3 align="center">A Data Enthusiast, and a sporadic scribbler, currently working at Optum as an Associate Data Scientist.</h3>
 
-- 🌱 I’m currently learning **Django, BeautifulSoup and other python frameworks**
-
-- 📫 How to reach me **aishneeporwal.401@gmail.com**
+- 📫 How to reach me **aishneeporwal56@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
